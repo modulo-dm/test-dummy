@@ -1,0 +1,10 @@
+{
+  "dependencies" : [
+    {
+      "repositoryURL" : "git@github.com:modulo-dm\/test-add-update.git",
+      "checkout" : "origin\/master"
+    }
+  ],
+  "name" : "test-dummy",
+  "module" : false
+}
